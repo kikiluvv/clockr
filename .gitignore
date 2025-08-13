@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Exports
+clockr_export.txt
+hours.txt
+.DS_Store

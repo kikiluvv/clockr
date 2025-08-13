@@ -1,0 +1,16 @@
+{
+  "config": {
+    "pay_period": "biweekly",
+    "start_of_period": "2025-08-1",
+    "end_of_period": "2025-08-14"
+  },
+  "sessions": [
+    {
+      "date": "2025-08-13",
+      "clock_in": "08:30",
+      "clock_out": "",
+      "breaks": null,
+      "total_hours": 0
+    }
+  ]
+}
